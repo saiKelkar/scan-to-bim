@@ -179,3 +179,26 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+*.mp4
+base-file/
+
+# --- Generated Data ---
+*.png
+*.jpg
+*.txt
+
+# --- Python & OS Junk ---
+__pycache__/ 
+*.pyc
+Thumbs.db
+.vscode/
+.venv/
+venv/
+env/
+*.cache
+
+# --- YOLO Training Artifact ---
+runs/
+*.pt
+
