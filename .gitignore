@@ -187,6 +187,8 @@ base-file/
 *.png
 *.jpg
 *.txt
+*.zip
+*.ply 
 
 # --- Python & OS Junk ---
 __pycache__/ 
