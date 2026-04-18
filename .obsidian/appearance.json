@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Solarized"
+  "cssTheme": "Solarized",
+  "textFontFamily": "Nimbus Mono PS",
+  "interfaceFontFamily": "Nimbus Mono PS"
 }

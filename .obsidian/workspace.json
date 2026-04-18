@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c10a1839198a297",
+        "id": "c716dd86e9f5954e",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c54cdcc391cee4",
+            "id": "a1db5131c510ee37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Untitled"
             }
           }
         ]
@@ -183,6 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2c54cdcc391cee4",
-  "lastOpenFiles": []
+  "active": "a1db5131c510ee37",
+  "lastOpenFiles": [
+    "test/data/seychelles-beach.ply",
+    "test/data",
+    "test/test.ipynb",
+    "test",
+    "Untitled.md",
+    "README.md"
+  ]
 }
