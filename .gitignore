@@ -204,3 +204,4 @@ env/
 runs/
 *.pt
 
+*data/
