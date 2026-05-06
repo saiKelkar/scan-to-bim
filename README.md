@@ -1,6 +1,6 @@
-# 🏗️ Scan-to-BIM: Automated 3D Reconstruction Pipeline
+# Scan-to-BIM: Automated 3D Reconstruction Pipeline
 
-## 📖 Project Overview
+## Project Overview
 Manual Building Information Modeling (BIM) generation for existing environments is a labor-intensive, error-prone, and expensive process. 
 This creates a significant bottleneck for the digital transformation of the real estate industry, hindering efficient facility management 
 and the scalability of PropTech solutions.
@@ -8,12 +8,12 @@ and the scalability of PropTech solutions.
 This project aims to develop a custom computational pipeline that utilizes computer vision to convert raw spatial data (photographs/scans) 
 into semantically rich, segmented 3D BIM models.
 
-## 🎯 Core Objectives
+## Core Objectives
 * **Automate Reconstruction:** Bridge the gap between physical site conditions and digital twin environments.
 * **Data Utilization:** Leverage the **S3DIS (Stanford Large-Scale 3D Indoor Spaces)** dataset to train and test segmentation pipelines.
 * **Reduce Barriers:** Lower the technical and financial barriers to digitizing existing undocumented building stock.
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 * **Deep Learning:** RandLA-Net (Transitioned from PointNet)
 * **Data Processing:** Open3D, NumPy, Pandas
 * **Programming Language:** Python
@@ -21,7 +21,7 @@ into semantically rich, segmented 3D BIM models.
 * **Evaluation:** Confusion Matrix, mIoU (Mean Intersection over Union)
 * **Core Concepts:** 3D Deep Learning, Computer Vision, Spatial Data Analysis, Photogrammetry
 
-## 🔄 Technical Evolution & Current Bottlenecks
+## Technical Evolution & Current Bottlenecks
 ### 1. Model Pivot: PointNet -> RandLA-Net
 The project initially utilized **PointNet**, which proved insufficient for architectural-scale environments.
 * **The Problem:** PointNet struggles with large-scale scenes and requires heavy downsampling, leading to the loss of critical geometric features and spatial context.
