@@ -38,6 +38,6 @@ The focus has shifted from simple segmentation to professional-grade interoperab
 * **BIM Integration:** Developing an export module to translate segmented point clusters into the **IFC format**, allowing for direct integration into professional BIM workflows such as **Revit** and **ArchiCAD**.
 
 
-## 🚀 Projected Impact
+## Projected Impact
 Once fully operational, this framework will enable faster property valuations, streamline renovation workflows, and provide a scalable 
 foundation for AI-driven spatial analysis in the real estate and urban analytics sectors.
