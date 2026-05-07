@@ -1,4 +1,6 @@
 # Scan-to-BIM: Automated 3D Reconstruction Pipeline
+Status: Work in Progress / Active Development
+
 
 ## Project Overview
 Manual Building Information Modeling (BIM) generation for existing environments is a labor-intensive, error-prone, and expensive process. This creates a significant bottleneck for the digital transformation of the real estate industry, hindering efficient facility management and the scalability of PropTech solutions.
